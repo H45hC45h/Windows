@@ -1,0 +1,1 @@
+Echo "Command Line to the Windows Clipboard" | clip 
