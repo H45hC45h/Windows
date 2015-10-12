@@ -1,1 +1,1 @@
-wmic bios get serialnumber
+wmic bios get serialnumber 
